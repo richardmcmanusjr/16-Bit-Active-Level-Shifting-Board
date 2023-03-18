@@ -21,7 +21,7 @@ Board File:
   <img src="https://github.com/richardmcmanusjr/16-Bit-Active-Level-Shifting-Board/blob/main/1-Bit.png" width="800">
 </p>
 
-# Layout 
+# Finished Layout 
 
 ### mainboard-01-8x2+1c.brd
 <p align="center">
